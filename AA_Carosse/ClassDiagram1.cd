@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AA_Carosse.MonPoint" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAoAIQAAIAAAAgAQAAABQABAAAIAAABAgACYAA=</HashCode>
+      <FileName>Base\MonPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AA_Carosse.MonPerso" Collapsed="true">
+    <Position X="2" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAQAAAAAgAQAAAAAAAkAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\MonPerso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AA_Carosse.MonCercle" Collapsed="true">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACgAAAAAIAAAAAAQCAAAAKAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\MonCercle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AA_Carosse.Jambe" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAIAAAEAACgAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Jambe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AA_Carosse.Bras" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAQAAAAAAAAAAAAABCBAAAAEA=</HashCode>
+      <FileName>Base\Bras.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AA_Carosse.MonRectangleMovable" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIEAECCgAIAAAAAAAAgAQAAAAQCAEQAAAEAAAAAA0FI=</HashCode>
+      <FileName>MonRectangleMovable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AA_Carosse.MonRectangle" Collapsed="true">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAEACgAIAAAIAAAAAAYACAAQKAEQAAAAAAAAAAUFA=</HashCode>
+      <FileName>MonRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AA_Carosse.MonCarosse" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgABMAAAgAAAgAQQACAAAAEAAAAAiAAAAggAA=</HashCode>
+      <FileName>Base\MonCarosse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AA_Carosse.MonBonhomme" Collapsed="true">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAQAAAACgAQAAAABAAkAAAABAAAAAAAAA=</HashCode>
+      <FileName>Base\MonBonhomme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AA_Carosse.CuisseCloseCurve" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAAAAAIAACAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Avec Close Curve\CuisseCloseCurve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AA_Carosse.JambeCloseCurve" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAgAAIAAAEAACgAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Avec Close Curve\JambeCloseCurve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AA_Carosse.BrasCloseCurve" Collapsed="true">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <InheritanceLine Type="AA_Carosse.MonRectangleMovable" ManuallyRouted="true">
+      <Path>
+        <Point X="4.75" Y="2.941" />
+        <Point X="4.75" Y="4.096" />
+        <Point X="3.75" Y="4.096" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAQAAgAAAAAAAAAAgAQAAAAAAAAAAAAABCBAAAAAA=</HashCode>
+      <FileName>Avec Close Curve\BrasCloseCurve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AA_Carosse.Decor" Collapsed="true">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAgAAAgAAAAAAAA/B8AAACAAAAQAAAsAQBIBwA=</HashCode>
+      <FileName>Decor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AA_Carosse.Skieur" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAABAgAAIEQAAAgIgCQAAAAABAAABgABAEABAAQAA=</HashCode>
+      <FileName>Skieur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
